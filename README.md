@@ -1,4 +1,4 @@
-# Running Fooocus API locally with Pinokio
+# Running Fooocus API locally one click with Pinokio
 
 <img  src="./image.png" />
 
