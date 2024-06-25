@@ -9,7 +9,7 @@
 
 ## Model download
 
-- If you already have Fooocus installed, and it is work well, The recommended way is to reuse models, you just simple copy config.txt file from your local Fooocus folder to Fooocus-API root folder.
+- If you already have Fooocus installed, and it is work well, The recommended way is to reuse models, you just simple copy config.txt file from your local Fooocus folder to Fooocus-API root folder (C:\xx\pinokio\api\Fooocus-API\app).
 
 Use this method you will have both Fooocus and Fooocus-API running at the same time. And they operate independently and do not interfere with each other.
 
