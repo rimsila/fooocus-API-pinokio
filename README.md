@@ -23,9 +23,6 @@ Use this method you will have both Fooocus and Fooocus-API running at the same t
 
 Confirmed working on Windows with Nvidia GPU, it may work with M1/M2 Mac and Linux too, but may not work on AMD and Intel Mac. If you get it to work, please let me know in open issue
 
-- discord: https://discord.gg/TQdNwadtE4
-- twitter: https://twitter.com/cocktailpeanut
-
 ## API repo
 
 <https://github.com/mrhan1993/Fooocus-API>
