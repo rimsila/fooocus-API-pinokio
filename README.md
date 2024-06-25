@@ -17,7 +17,7 @@ Use this method you will have both Fooocus and Fooocus-API running at the same t
 
 ## Run Api
 
-- click run and open <http://127.0.0.1:8888/docs>
+- click left menu run and open web ui ot <http://127.0.0.1:8888/docs>
 
 # Disclaimer
 
